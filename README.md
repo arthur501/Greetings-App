@@ -33,16 +33,16 @@ git clone https://github.com/user/greetings-app.git<br>
 🇪🇸 Spanish<br>
 🇸🇦 Arabic<br>
 
-**General Interface:**
-![Screenshot 2025-02-11 at 11 15 03 AM](https://github.com/user-attachments/assets/47ce6bfd-4f61-4e04-aa5c-5a8b3dd93df1)
-**Language Option:**
-![Screenshot 2025-02-11 at 11 15 57 AM](https://github.com/user-attachments/assets/d9d9fb12-822d-4f09-b603-955dcf27d9f5)
-Spanish: 
-![Screenshot 2025-02-11 at 11 16 50 AM](https://github.com/user-attachments/assets/a8e4935e-d02d-4315-92c7-e10d5eb50d76)
-**Portuguese (Brazil)**
-![Screenshot 2025-02-11 at 11 17 17 AM](https://github.com/user-attachments/assets/bf8741c8-465f-4d5b-a980-9df580569920)
-**Arabic:**
-![Screenshot 2025-02-11 at 11 17 32 AM](https://github.com/user-attachments/assets/2cc2161d-b2a4-4174-a99e-fc89a0ed2103)
+**General Interface:**<br>
+![Screenshot 2025-02-11 at 11 15 03 AM](https://github.com/user-attachments/assets/47ce6bfd-4f61-4e04-aa5c-5a8b3dd93df1)<br>
+**Language Option:**<br>
+![Screenshot 2025-02-11 at 11 15 57 AM](https://github.com/user-attachments/assets/d9d9fb12-822d-4f09-b603-955dcf27d9f5)<br>
+Spanish:<br>
+![Screenshot 2025-02-11 at 11 16 50 AM](https://github.com/user-attachments/assets/a8e4935e-d02d-4315-92c7-e10d5eb50d76)<br>
+**Portuguese (Brazil)**<br>
+![Screenshot 2025-02-11 at 11 17 17 AM](https://github.com/user-attachments/assets/bf8741c8-465f-4d5b-a980-9df580569920)<br>
+**Arabic:**<br>
+![Screenshot 2025-02-11 at 11 17 32 AM](https://github.com/user-attachments/assets/2cc2161d-b2a4-4174-a99e-fc89a0ed2103)<br>
 
 
 
